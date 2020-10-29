@@ -1,0 +1,23 @@
+{
+  "name": "fsdday04cart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gohts@github.com/gohts/fsdday04cart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gohts/fsdday04cart/issues"
+  },
+  "homepage": "https://github.com/gohts/fsdday04cart#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  }
+}
